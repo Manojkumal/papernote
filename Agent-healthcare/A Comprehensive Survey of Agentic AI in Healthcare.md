@@ -20,8 +20,12 @@ This paper presents a comprehensive survey of Agentic AI in the healthcare indus
 
 * Multi-modal integration: Agents combine text, images, signals, and omics to make comprehensive decisions.
 
+#### Types of Multiagent
+![multiagent_types](multiagent_types.png)
+
+
 #### Challenges
-1. Safety & Reliability: Risk of errors in diagnosis or treatment if agents act incorrectly.
+1. Safety(hallucinations) & Reliability: Risk of errors in diagnosis or treatment if agents act incorrectly.
 
 2. Data Quality & Bias: Poor or biased training data can lead to unfair or inaccurate outcomes.
 
