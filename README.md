@@ -20,3 +20,4 @@
 
 ## Communication
 * **2025.06 A Survey of AI Agent Protocols** [arXiv](https://arxiv.org/abs/2504.16736) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Survey%20of%20AI%20Agent%20Protocols.md)
+* **2025.11 A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasure** [arXiv](https://arxiv.org/abs/2506.19676) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Survey%20of%20LLM-Driven%20AI%20Agent%20Communication%3A%20Protocols%2C%20Security%20Risks%2C%20and%20Defense%20Countermeasure.md)
