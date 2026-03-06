@@ -24,6 +24,7 @@
 * **2025.11 A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasure** [arXiv](https://arxiv.org/abs/2506.19676) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Survey%20of%20LLM-Driven%20AI%20Agent%20Communication%3A%20Protocols%2C%20Security%20Risks%2C%20and%20Defense%20Countermeasure.md)
 * **2025.07 Agent Network Protocol (ANP) Technical White Paper** [arXiv](https://arxiv.org/abs/2508.00007) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/Agent%20Network%20Protocol%20(ANP)%20Technical%20White%20Paper.md)
 * **Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol** [arXiv](https://arxiv.org/abs/2504.16902) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/Building%20A%20Secure%20Agentic%20AI%20Application%20Leveraging%20Google%E2%80%99s%20A2A%20Protocol.md)
+* **Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems** [arXiv](https://arxiv.org/pdf/2502.14321) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Communication-Centric%20Survey%20of%20LLM-Based%20Multi-Agent%20Systems.md)
 
 ## Word Embedding
 * **2025.06 Enriching Word Vectors with Subword Information** [arXiv](https://arxiv.org/abs/1607.04606) | [note](https://github.com/Manojkumal/papernote/blob/main/Word-Vector/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)
