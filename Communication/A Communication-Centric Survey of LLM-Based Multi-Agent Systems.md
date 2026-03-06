@@ -4,7 +4,7 @@ This paper presents a comprehensive survey of Large Language Model-based Multi-A
 . The authors propose a structured framework that distinguishes between system-level communication (macro organization) and system-internal communication (micro dynamics)
 . By analyzing recent literature, the survey identifies how structured architectures, goals, and standardized protocols—such as MCP, A2A, and ANP—enable agents to transcend individual "self-talk" and achieve collective intelligence
 .
-# comment Advantages of the Communication-Centric Perspective:
+#### comment Advantages of the Communication-Centric Perspective:
 * Unified Taxonomy: The paper organizes agent organization into five canonical architectures: Flat, Hierarchical, Team, Society, and Hybrid, providing a clear roadmap for designing systems based on task complexity
 .
 * Strategic Dynamics: It breaks down internal communication strategies (e.g., One-by-One vs. Simultaneous-Talk) and paradigms (e.g., Speech Act vs. Blackboard), offering technical insights into how message flow affects system latency and accuracy
