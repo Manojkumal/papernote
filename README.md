@@ -13,8 +13,8 @@
 * **2025.06 A Comprehensive Survey of Agentic AI in Healthcare** [arXiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176240542.22279040/v1) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/A%20Comprehensive%20Survey%20of%20Agentic%20AI%20in%20Healthcare.md)
 * **2025.01 Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** [arXiv](https://arxiv.org/abs/2405.02957) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/Agent%20Hospital%3A%20A%20Simulacrum%20of%20Hospital%20with%20Evolvable%20Medical%20Agents.md)
 * **Beyond Pattern Recognition: Teaching AI to Think Critically Before It Learns** [arXiv](https://ieeexplore.ieee.org/document/11220157) | [note](https://github.com/Manojkumal/papernote/blob/main/Model%20Training/Beyond%20Pattern%20Recognition%3A%20Teaching%20AI%20to%20Think%20Critically%20Before%20It%20Learns.md)
-
 * **2025.11 The Landscape of Medical Agents: A Survey** [arXiv](https://www.techrxiv.org/users/1005258/articles/1368207-the-landscape-of-medical-agents-a-survey) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/The%20Landscape%20of%20Medical%20Agents%3A%20A%20Survey.md)
+* **2026.02 SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery** [arXiv](https://arxiv.org/abs/2602.09132) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/SciDataCopilot.md)
 
 ## Education
 * **2025.01 A Comprehensive Survey on Large-Language-Model-Based Agents for Education** [arXiv](https://ieeexplore.ieee.org/document/11192789) | [note](https://github.com/Manojkumal/papernote/blob/main/Education/A%20Comprehensive%20Survey%20on%20Large-Language-Model-Based%20Agents%20for%20Education.md)
