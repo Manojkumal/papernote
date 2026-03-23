@@ -14,6 +14,8 @@
 * **2025.01 Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** [arXiv](https://arxiv.org/abs/2405.02957) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/Agent%20Hospital%3A%20A%20Simulacrum%20of%20Hospital%20with%20Evolvable%20Medical%20Agents.md)
 * **Beyond Pattern Recognition: Teaching AI to Think Critically Before It Learns** [arXiv](https://ieeexplore.ieee.org/document/11220157) | [note](https://github.com/Manojkumal/papernote/blob/main/Model%20Training/Beyond%20Pattern%20Recognition%3A%20Teaching%20AI%20to%20Think%20Critically%20Before%20It%20Learns.md)
 
+* **2025.11 The Landscape of Medical Agents: A Survey** [arXiv](https://www.techrxiv.org/users/1005258/articles/1368207-the-landscape-of-medical-agents-a-survey) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/The%20Landscape%20of%20Medical%20Agents%3A%20A%20Survey.md)
+
 ## Education
 * **2025.01 A Comprehensive Survey on Large-Language-Model-Based Agents for Education** [arXiv](https://ieeexplore.ieee.org/document/11192789) | [note](https://github.com/Manojkumal/papernote/blob/main/Education/A%20Comprehensive%20Survey%20on%20Large-Language-Model-Based%20Agents%20for%20Education.md)
 * **2025.08 Evaluation and Benchmarking of LLM Agents: A Survey** [arXiv](https://dl.acm.org/doi/10.1145/3711896.3736570) | [note](https://github.com/Manojkumal/papernote/blob/main/Education/Evaluation%20and%20Benchmarking%20of%20LLM%20Agents%3A%20A%20Survey.md)
