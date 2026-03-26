@@ -16,6 +16,9 @@
 * **2025.11 The Landscape of Medical Agents: A Survey** [arXiv](https://www.techrxiv.org/users/1005258/articles/1368207-the-landscape-of-medical-agents-a-survey) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/The%20Landscape%20of%20Medical%20Agents%3A%20A%20Survey.md)
 * **2026.02 SciDataCopilot: An Agentic Data Preparation Framework for AGI-driven Scientific Discovery** [arXiv](https://arxiv.org/abs/2602.09132) | [note](https://github.com/Manojkumal/papernote/blob/main/Agent-healthcare/SciDataCopilot.md)
 * **2026.01 Toward Transparent and Incentive-Compatible Collaboration in Decentralized LLM Multi-Agent Systems: A Blockchain-Driven Approach**  [arXiv](https://ieeexplore.ieee.org/abstract/document/11368731) | [note](https://github.com/Manojkumal/papernote/blob/main/Agents/Toward%20Transparent%20and%20Incentive-Compatible%20Collaboration%20in%20Decentralized%20LLM%20Multi-Agent%20Systems%3A%20A%20Blockchain-Driven%20Approach.md)
+* **DeCoAgent: Smart Contract Based Decentralized Autonomous LLM Collaboration Framework** [arXiv](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10720018) | [note](https://github.com/Manojkumal/papernote/blob/main/Agents/DeCoAgent%3A%20Smart%20Contract%20Based%20Decentralized%20Autonomous%20LLM%20Collaboration%20Framework.md)
+
+
 
 ## Education
 * **2025.01 A Comprehensive Survey on Large-Language-Model-Based Agents for Education** [arXiv](https://ieeexplore.ieee.org/document/11192789) | [note](https://github.com/Manojkumal/papernote/blob/main/Education/A%20Comprehensive%20Survey%20on%20Large-Language-Model-Based%20Agents%20for%20Education.md)
