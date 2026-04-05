@@ -35,6 +35,7 @@
 
 ## Evaluation
 * **2025.09 On the Importance of Task Complexity in Evaluating LLM-Based Multi-Agent Systems** [arXiv](https://arxiv.org/abs/2510.04311) | [note](https://github.com/Manojkumal/papernote/blob/main/Evaluation/On%20the%20Importance%20of%20Task%20Complexity%20in%20Evaluating%20LLM-Based%20Multi-Agent%20Systems.md)
+* **2025.07 MASCA: LLM based-Multi Agents System for Credit Assessment** [arXiv](https://arxiv.org/abs/2507.22758) | [note](https://github.com/Manojkumal/papernote/blob/main/Evaluation/MASCA%3A%20LLM%20based-Multi%20Agents%20System%20for%20Credit%20Assessment.md)
 
 ## Word Embedding
 * **2025.06 Enriching Word Vectors with Subword Information** [arXiv](https://arxiv.org/abs/1607.04606) | [note](https://github.com/Manojkumal/papernote/blob/main/Word-Vector/Enriching%20Word%20Vectors%20with%20Subword%20Information.md)
