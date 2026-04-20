@@ -18,6 +18,9 @@
 * **2026.01 Toward Transparent and Incentive-Compatible Collaboration in Decentralized LLM Multi-Agent Systems: A Blockchain-Driven Approach**  [arXiv](https://ieeexplore.ieee.org/abstract/document/11368731) | [note](https://github.com/Manojkumal/papernote/blob/main/Agents/Toward%20Transparent%20and%20Incentive-Compatible%20Collaboration%20in%20Decentralized%20LLM%20Multi-Agent%20Systems%3A%20A%20Blockchain-Driven%20Approach.md)
 * **DeCoAgent: Smart Contract Based Decentralized Autonomous LLM Collaboration Framework** [arXiv](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10720018) | [note](https://github.com/Manojkumal/papernote/blob/main/Agents/DeCoAgent%3A%20Smart%20Contract%20Based%20Decentralized%20Autonomous%20LLM%20Collaboration%20Framework.md)
 
+## Multiagent Framework
+* **2023.08 Meta Programming for A Multi-Agent Collaborative Framework** [arXiv](https://arxiv.org/abs/2308.00352) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/Meta%20Programming%20for%20A%20Multi-Agent%20Collaborative%20Framework.md)
+
 
 
 ## Education
