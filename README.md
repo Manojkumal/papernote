@@ -21,6 +21,7 @@
 ## Multiagent Framework
 * **2023.08 Meta Programming for A Multi-Agent Collaborative Framework** [arXiv](https://arxiv.org/abs/2308.00352) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/Meta%20Programming%20for%20A%20Multi-Agent%20Collaborative%20Framework.md)
 * **2023.08 AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors** [arXiv](https://arxiv.org/abs/2308.10848) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/AgentVerse%3A%20Facilitating%20Multi-Agent%20Collaboration%20and%20Exploring%20Emergent%20Behaviors.md)
+* **ChatDev: Communicative Agents for Software Development** [arXiv](https://arxiv.org/pdf/2307.07924) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/ChatDev%3A%20Communicative%20Agents%20for%20Software%20Development.md)
 
 
 

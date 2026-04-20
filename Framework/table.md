@@ -1,6 +1,6 @@
-<!-- | Multi-agent Framework | Porblem| Methodology | Experimentation and Evaluation | domain |
+| Multi-agent Framework | Porblem| Methodology | Experimentation and Evaluation | domain |
 |-----------------------|----------|----------|----------------------------------|--------|
 | MetaGPT | LLM-based multi-agent systems can handle simple dialogue tasks, they struggle with complex software engineering problems  | real-world problem-solving by encoding human SOPs(Standardized Operating Procedures)| HuamnEval and MBPP  | Progmming/Software |
-| AutoGPT  | Row 2 B  | Row 2 C  | Row 2 D  | odl |
+| AgentVerse  | utilize rigid and static agent roles that require manual assignment  | GENTVERSE framework organizes the problem-solving process into four sequential and iterative stages: Expert Recruitment, Collaborative Decision-Making, Action Execution and Evaluaiton  | AGENTVERSE consistently outperforms standalone Chain-of-Thought (CoT) agents and "Solo" setups across various datasets, including FED, Commongen-Challenge, and MGSM   |  text understanding, reasoning, coding, tool utilization, and embodied AI (Minecraft) |
 | Row 3 A  | Row 3 B  | Row 3 C  | Row 3 D  | odl | 
-| Row 4 A  | Row 4 B  | Row 4 C  | Row 4 D  | odl | -->
+| Row 4 A  | Row 4 B  | Row 4 C  | Row 4 D  | odl |
