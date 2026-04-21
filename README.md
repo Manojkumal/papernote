@@ -21,9 +21,8 @@
 ## Multiagent Framework
 * **2023.08 Meta Programming for A Multi-Agent Collaborative Framework** [arXiv](https://arxiv.org/abs/2308.00352) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/Meta%20Programming%20for%20A%20Multi-Agent%20Collaborative%20Framework.md)
 * **2023.08 AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors** [arXiv](https://arxiv.org/abs/2308.10848) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/AgentVerse%3A%20Facilitating%20Multi-Agent%20Collaboration%20and%20Exploring%20Emergent%20Behaviors.md)
-* **ChatDev: Communicative Agents for Software Development** [arXiv](https://arxiv.org/pdf/2307.07924) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/ChatDev%3A%20Communicative%20Agents%20for%20Software%20Development.md)
-
-
+* **2023 07 ChatDev: Communicative Agents for Software Development** [arXiv](https://arxiv.org/pdf/2307.07924) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/ChatDev%3A%20Communicative%20Agents%20for%20Software%20Development.md)
+* **2023 03 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society** [arXiv](https://arxiv.org/pdf/2303.17760) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/CAMEL%3A%20Autonomous%20Agent%20Cooperation%20via%20Role-Playing.md)
 
 ## Education
 * **2025.01 A Comprehensive Survey on Large-Language-Model-Based Agents for Education** [arXiv](https://ieeexplore.ieee.org/document/11192789) | [note](https://github.com/Manojkumal/papernote/blob/main/Education/A%20Comprehensive%20Survey%20on%20Large-Language-Model-Based%20Agents%20for%20Education.md)
@@ -34,8 +33,8 @@
 * **2025.06 A Survey of AI Agent Protocols** [arXiv](https://arxiv.org/abs/2504.16736) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Survey%20of%20AI%20Agent%20Protocols.md)
 * **2025.11 A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasure** [arXiv](https://arxiv.org/abs/2506.19676) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Survey%20of%20LLM-Driven%20AI%20Agent%20Communication%3A%20Protocols%2C%20Security%20Risks%2C%20and%20Defense%20Countermeasure.md)
 * **2025.07 Agent Network Protocol (ANP) Technical White Paper** [arXiv](https://arxiv.org/abs/2508.00007) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/Agent%20Network%20Protocol%20(ANP)%20Technical%20White%20Paper.md)
-* **Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol** [arXiv](https://arxiv.org/abs/2504.16902) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/Building%20A%20Secure%20Agentic%20AI%20Application%20Leveraging%20Google%E2%80%99s%20A2A%20Protocol.md)
-* **Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems** [arXiv](https://arxiv.org/pdf/2502.14321) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Communication-Centric%20Survey%20of%20LLM-Based%20Multi-Agent%20Systems.md)
+* **2025 03 Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol** [arXiv](https://arxiv.org/abs/2504.16902) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/Building%20A%20Secure%20Agentic%20AI%20Application%20Leveraging%20Google%E2%80%99s%20A2A%20Protocol.md)
+* **2025 02 Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems** [arXiv](https://arxiv.org/pdf/2502.14321) | [note](https://github.com/Manojkumal/papernote/blob/main/Communication/A%20Communication-Centric%20Survey%20of%20LLM-Based%20Multi-Agent%20Systems.md)
 
 
 ## Evaluation
