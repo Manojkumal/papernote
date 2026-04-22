@@ -23,6 +23,8 @@
 * **2023.08 AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors** [arXiv](https://arxiv.org/abs/2308.10848) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/AgentVerse%3A%20Facilitating%20Multi-Agent%20Collaboration%20and%20Exploring%20Emergent%20Behaviors.md)
 * **2023 07 ChatDev: Communicative Agents for Software Development** [arXiv](https://arxiv.org/pdf/2307.07924) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/ChatDev%3A%20Communicative%20Agents%20for%20Software%20Development.md)
 * **2023 03 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society** [arXiv](https://arxiv.org/pdf/2303.17760) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/CAMEL%3A%20Autonomous%20Agent%20Cooperation%20via%20Role-Playing.md)
+* **2024 08 MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs** [arXiv](https://arxiv.org/abs/2408.09955) | [note](https://github.com/Manojkumal/papernote/blob/main/Framework/MegaAgent%3A%20Scalable%20Autonomous%20Multi-Agent%20Systems%20via%20Hierarchical%20Coordination.md)
+
 
 ## Education
 * **2025.01 A Comprehensive Survey on Large-Language-Model-Based Agents for Education** [arXiv](https://ieeexplore.ieee.org/document/11192789) | [note](https://github.com/Manojkumal/papernote/blob/main/Education/A%20Comprehensive%20Survey%20on%20Large-Language-Model-Based%20Agents%20for%20Education.md)
